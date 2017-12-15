@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir aex
+mkdir ~/aex
 cd aex
 repo init -u https://github.com/varunhardgamer/manifest -b nougat
 repo sync -j128
